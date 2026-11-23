@@ -279,4 +279,4 @@ Apache 2.0 — see [LICENSE](LICENSE).
 
 ## Citations
 
-<sup>1</sup> https://arxiv.org/abs/2310.06770
+<sup>1</sup> https://arxiv.org/abs/2310.06770.0
